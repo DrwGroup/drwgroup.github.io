@@ -34,9 +34,13 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Record 45 Second Voice Snippets
+  - title                                 : Record Voice Snippets
     description                           : Every Cassette is limited to 45 seconds (average time for a person to read 100 words).
     fontawesome_icon_name                 : microphone-alt
+  
+  - title                                 : Listen to others
+    description                           : Press play to hear you friends snippets
+    fontawesome_icon_name                 : play
 
 # Theme Settings
 topbar_color                              : "#000000"
