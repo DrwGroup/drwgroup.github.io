@@ -35,12 +35,17 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Record Voice Snippets
-    description                           : Every Cassette is limited to 45 seconds (average time for a person to read 100 words).
+    description                           : Every Cassette is limited to 45 seconds (average time for a person to read 100 words)
     fontawesome_icon_name                 : microphone-alt
   
   - title                                 : Listen to others
     description                           : Press play to hear you friends snippets
     fontawesome_icon_name                 : play
+
+  - title                                 : Follow Cassettes
+    description                           : Cassettes are a collection of voice snippets, listen to cassettes in order to hear their story
+    fontawesome_icon_name                 : headphones-alt
+  
 
 # Theme Settings
 topbar_color                              : "#000000"
